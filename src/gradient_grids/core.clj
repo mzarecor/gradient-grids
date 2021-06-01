@@ -86,3 +86,4 @@
   :middleware [m/fun-mode]
   :draw draw
   )
+;;You can find the project on github at https://github.com/mzarecor/gradient-grids
